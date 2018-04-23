@@ -6,7 +6,9 @@ namespace VisionXamSharp
 {
     public static class Constantes
     {
+        // 
+        // 
         public static string trainingKey = "TU TRAINING KEY";
-        public static string predictionKey = "TU PREDICTION KEY";
+        public static string predictionKey = "TU PREDICTION KEY ";
     }
 }
